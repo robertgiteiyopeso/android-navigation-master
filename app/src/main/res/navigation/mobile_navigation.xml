@@ -93,6 +93,8 @@
         <!--<deepLink app:uri="www.example.com/{myarg}" />-->
 
         <!-- TODO END STEP 11.1 -->
+        <deepLink app:uri="www.example.com/{myarg}" />
+
     </fragment>
     <fragment
         android:id="@+id/settings_dest"
