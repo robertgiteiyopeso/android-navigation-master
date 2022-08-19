@@ -28,4 +28,8 @@
         <!--android:icon="@drawable/ic_settings"-->
         <!--android:title="@string/settings" />-->
     <!-- TODO END STEP 9.8 -->
+    <item
+        android:id="@+id/settings_dest"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings" />
 </menu>
